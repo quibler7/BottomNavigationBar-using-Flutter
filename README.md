@@ -15,5 +15,5 @@ Run the following commands from your terminal:
 
 ## Screenshots 
 
-  <img src = "lib/Gnav1.png" height = 426 width = 196.5 >
-  <img src = "lib/Gnav2.png" height = 426 width = 196.5 >
+  <img src = "lib/GNav1.png" height = 426 width = 196.5 >
+  <img src = "lib/GNav2.png" height = 426 width = 196.5 >
