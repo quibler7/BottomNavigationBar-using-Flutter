@@ -1,16 +1,19 @@
-# bottomnav
 
-A new Flutter project.
+# BottomNvigationBar using Flutter
 
-## Getting Started
+🪄 I made a simple app containing BottomNavigationBar using GNav ( google nav bar ) 
 
-This project is a starting point for a Flutter application.
+🧠 During this small project I leanred about padding and how to customise the Navigation Bar to match our App aesthetics. 
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Run the following commands from your terminal:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1) `git clone https://github.com/quibler7/BottomNavigationBar-using-Flutter` to clone this repository 
+
+2) `flutter pub get` in the project root directory to install all the required dependencies.
+
+## Screenshots 
+
+  <img src = "lib/Gnav1.png" height = 426 width = 196.5 >
+  <img src = "lib/Gnav2.png" height = 426 width = 196.5 >
