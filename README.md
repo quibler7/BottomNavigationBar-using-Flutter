@@ -1,7 +1,7 @@
 
-# BottomNvigationBar using Flutter
+# BottomNavigationBar using Flutter
 
-🪄 I made a simple app containing BottomNavigationBar using GNav ( google nav bar ) 
+🪄 I made a simple App containing BottomNavigationBar using GNav ( google nav bar ) 
 
 🧠 During this small project I leanred about padding and how to customise the Navigation Bar to match our App aesthetics. 
 
